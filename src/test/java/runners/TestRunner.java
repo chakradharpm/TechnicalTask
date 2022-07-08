@@ -18,7 +18,7 @@ import java.io.File;
                 "json:target/cucumber-components-report.json"
         },
         monochrome = true,
-        tags = "@regression"
+        tags = "@smoke"
 )
 public class TestRunner {
 
